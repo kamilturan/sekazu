@@ -13,8 +13,8 @@
 - [Architecture & Workflow](#architecture--workflow)  
 - [Machine Learning Models](#machine-learning-models)  
 - [Tech Stack & Dependencies](#tech-stack--dependencies)  
-- [Installation](#installation)  
-- [Citing Sekazu](#citing-sekazu)  
+- [Installation & Citing](#installation)  
+
 
 ---
 
@@ -131,5 +131,5 @@ source venv/bin/activate      # Windows: venv\Scripts\activate
 # 3. Install dependencies
 pip install -r requirements.txt
 
-## Citing
+Citing
 Turan, M. K., Sehirli, E., Oner, Z., & Oner, S. (2021). Sekazu: an integrated solution tool for gender determination based on machine learning models. Medicine, 10(2), 367-73.
